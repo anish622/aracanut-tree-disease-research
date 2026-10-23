@@ -1,0 +1,18 @@
+MobileNetV2 - held-out test set (166 images)
+Accuracy: 86.14%   Macro-F1: 81.97%
+
+              precision    recall  f1-score   support
+
+           0       0.77      1.00      0.87        20
+           1       1.00      0.20      0.33        10
+           2       1.00      0.85      0.92        20
+           3       1.00      0.68      0.81        19
+           4       0.86      0.95      0.90        20
+           5       0.70      1.00      0.83        19
+           6       0.90      1.00      0.95        19
+           7       1.00      0.75      0.86        20
+           8       0.83      1.00      0.90        19
+
+    accuracy                           0.86       166
+   macro avg       0.90      0.83      0.82       166
+weighted avg       0.89      0.86      0.85       166
